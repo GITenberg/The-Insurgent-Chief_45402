@@ -1,0 +1,31 @@
+_repo: The-Insurgent-Chief_45402
+_version: 0.1.0
+alternative_title: Le Montonero. English
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Aimard, Gustave
+    alias: Gloux, Olivier
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '5146'
+    url: http://www.gutenberg.org/2009/agents/5146
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Gustave_Aimard
+    - http://fr.wikipedia.org/wiki/Gustave_Aimard
+description: ''
+gutenberg_issued: '2014-04-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45402'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PQ'
+title: The Insurgent Chief
+url: http://www.gutenberg.org/ebooks/45402
