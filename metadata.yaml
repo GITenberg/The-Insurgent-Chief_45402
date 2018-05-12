@@ -16,6 +16,8 @@ creator:
     - http://en.wikipedia.org/wiki/Gustave_Aimard
     - http://fr.wikipedia.org/wiki/Gustave_Aimard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45402#The-Insurgent-Chief
 gutenberg_issued: '2014-04-15'
 gutenberg_type: Text
 identifiers:
